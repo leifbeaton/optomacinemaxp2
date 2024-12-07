@@ -34,7 +34,7 @@ Setup Instructions
 1. Clone the Repository
 bash
 Copy code
-git clone https://github.com/your-username/projector-control-api.git
+git clone https://github.com/leifbeaton/optomacinemaxp2.git
 cd projector-control-api
 2. Install Dependencies
 bash
